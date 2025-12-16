@@ -14,3 +14,56 @@
    14  git remote -v
    15  git push -u origin main
    16  history >commands.txt
+   17  git status
+   18  git add .
+   19  git commit -m "Add commans"
+   20  git push
+   21  code .
+   22  nano chater1.txt
+   23  git add .
+   24  git commit -m "Add chater"
+   25  git push
+   26  nano chater1.txt
+   27  ls
+   28  nano chater1.txt
+   29  git add .
+   30  git commit -m "Update1"
+   31  git log
+   32  git push
+   33  git log
+   34  got log --oneline
+   35  git log --oneline
+   36  git revert 47ed72f 
+   37  git log
+   38  ls
+   39  cat chater1.txt 
+   40  git push
+   41  nano readme.md
+   42  git add .
+   43  git commit -m "Заголовок"
+   44  git push
+   45  touch future_chaptrs.txt
+   46  ls
+   47  git add .
+   48  git push
+   49  git commit -m "charter"
+   50  git push
+   51  git log --oneline
+   52  git reset --soft 007ecc1
+   53  git log --oneline
+   54  git status
+   55  git retore --staged  future_chaptrs.txt
+   56  git restore --staged  future_chaptrs.txt
+   57  git status
+   58  nano .gitignor
+   59  nano .gitignore
+   60  git status
+   61  gi add .
+   62  git commit -m "gitignore"
+   63  git push
+   64  git push --force
+   65  git status
+   66  git add .
+   67  git commit -m "gitignore"
+   68  git push --force
+   69  history >commands.txt
