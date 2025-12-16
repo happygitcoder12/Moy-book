@@ -1,0 +1,16 @@
+    1  git config --global user.name "happygitcoder12"
+    2  git config --global user.email "HelloWorldGit.123"
+    3  ls
+    4  nano intro.txt
+    5  cat intro.txt
+    6  echo  "Passw" > pass.txt
+    7  git init
+    8  git add.
+    9  git add .
+   10  git status
+   11  git commit -m "Add intro of book"
+   12  git log
+   13  git remote add origin https://github.com/happygitcoder12/Moy-book.git
+   14  git remote -v
+   15  git push -u origin main
+   16  history >commands.txt
